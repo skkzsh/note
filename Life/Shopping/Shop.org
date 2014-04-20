@@ -1,0 +1,20 @@
+#+TITLE: Shop
+#+AUTHOR: skkzsh
+#+LANGUAGE: ja
+#+OPTIONS: \n:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/white-org.css" title="org">
+
+* 雑貨 文房具 ステーショナリー 家具 インテリア ホームセンター
+  |               | 関西 (大阪)                    | 関東 (東京)     |
+  |---------------+--------------------------------+-----------------|
+  | ロフト        | 梅田                           | 渋谷 池袋       |
+  | [[http://www.muji.net/store/][無印良品]]      | 梅田 心斎橋 なんば 天王寺 千里 |                 |
+  | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]    | 梅田 江坂                      | 渋谷 池袋 新宿  |
+  | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]    | 梅田 心斎橋 なんば 天王寺      |                 |
+  | ダブルデイ    | なんば                         |                 |
+  | [[http://www.nitori-net.jp][ニトリ]]        | 西成                           | 赤羽 成増       |
+  | [[http://www.shimachu.co.jp][島忠ホームズ]]  |                                | 方南町 足立小台 |
+  | IKEA          | 神戸 鶴浜                      | 新三郷 船橋     |
+  | [[http://www.afternoon-tea.net/pc/index.html][Afternoon Tea]] |                                |                 |
+  | [[http://www.aida-inc.com/][AIDA]]          | 梅田                           |                 |
+  | [[http://www.actus-interior.com][アクタス]]      | 心斎橋                         |                 |
