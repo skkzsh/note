@@ -4,7 +4,7 @@
 #+OPTIONS: \n:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/white-org.css" title="org">
 
-* 雑貨 文房具 ステーショナリー 家具 インテリア ホームセンター
+* 雑貨 文房具 stationery 家具 interior ホームセンター
   |               | 関西 (大阪)                    | 関東 (東京)     |
   |---------------+--------------------------------+-----------------|
   | ロフト        | 梅田                           | 渋谷 池袋       |
