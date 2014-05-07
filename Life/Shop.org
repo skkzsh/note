@@ -10,13 +10,14 @@
    |---------------+--------------------------------+------------------|
    | ロフト        | 梅田                           | 渋谷 池袋 吉祥寺 |
    | [[http://www.muji.net/store/][無印良品]]      | 梅田 心斎橋 なんば 天王寺 千里 |                  |
-   | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]    | 梅田 江坂                      | 渋谷 池袋 新宿   |
+   | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]    | 梅田                           | 渋谷 池袋 新宿   |
    | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]    | 梅田 心斎橋 なんば 天王寺      |                  |
    | [[http://www.nitori-net.jp][ニトリ]]        | 西成                           | 赤羽 成増        |
    | [[http://www.shimachu.co.jp][島忠ホームズ]]  |                                | 方南町 足立小台  |
-   | IKEA          | 神戸 鶴浜                      | 新三郷 船橋      |
+   | IKEA          | 神戸                           | 新三郷 船橋      |
    | [[http://www.afternoon-tea.net/pc/index.html][Afternoon Tea]] |                                |                  |
-   | [[http://www.actus-interior.com][アクタス]]      | 心斎橋                         | 新宿 青山        |
+   | [[http://www.actus-interior.com][アクタス]]      | 大阪空港 心斎橋                | 新宿 青山        |
+   | [[http://www.idc-otsuka.jp/][IDC大塚家具]]   | 大阪港 神戸                    |                  |
 
 ** Link
    - [[http://zakka.30min.jp/][みんなの雑貨屋めぐり by 30min.]]
