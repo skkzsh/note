@@ -10,7 +10,8 @@
    |-----------+-------------|
    | 3845#*XX# | Hidden Menu |
    | 2945#*XX# | SIM Unlock  |
-    Ex.) LGL22: XX=22
+
+   Ex.) LGL22: XX=22
 
 * See also
   - [[https://play.google.com/store/apps/details?id=com.sika524.android.quickshortcut&hl=ja][QuickShortcutMaker]]
