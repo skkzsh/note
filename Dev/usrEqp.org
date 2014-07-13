@@ -1,0 +1,16 @@
+#+TITLE: User Equipment
+#+AUTHOR: skkzsh
+#+LANGUAGE: ja
+#+OPTIONS: \n:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/white-org.css" title="org">
+
+* LG
+** Codes
+   | Code      | Application |
+   |-----------+-------------|
+   | 3845#*XX# | Hidden Menu |
+   | 2945#*XX# | SIM Unlock  |
+    Ex.) LGL22: XX=22
+
+* See also
+  - [[https://play.google.com/store/apps/details?id=com.sika524.android.quickshortcut&hl=ja][QuickShortcutMaker]]
