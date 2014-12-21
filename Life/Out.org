@@ -1,0 +1,15 @@
+#+AUTHOR: skkzsh
+#+LANGUAGE: ja
+#+OPTIONS: \n:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/org.css" title="org">
+
+- Cell phone
+- Tablet
+- Mobile battery
+- Earphone
+- Wallet
+- Transportation IC card
+- Card case
+- Pouch
+- Key
+- Watch
