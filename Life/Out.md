@@ -1,10 +1,10 @@
-- Cell phone
-- Tablet
-- Mobile battery
-- Earphone
-- Wallet
-- Transportation IC card
-- Card case
-- Pouch
-- Key
-- Watch
+- cell phone
+- tablet
+- charger
+- earphone
+- wallet
+- transportation IC card
+- card case
+- pouch
+- key
+- watch
