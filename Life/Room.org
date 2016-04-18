@@ -1,0 +1,17 @@
+#+TITLE: Room
+#+AUTHOR: skkzsh
+#+LANGUAGE: ja
+#+OPTIONS: \n:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/white-org.css" title="org">
+
+* Width
+  | desk      | 120 |
+  | rack      |  90 |
+  | 収納case  |  40 |
+  | bookshelf |  60 |
+
+* Bed
+  - space: D36 * H36
+  - drawer: W54 * D46
+    - 小: H14
+    - 大: H30
