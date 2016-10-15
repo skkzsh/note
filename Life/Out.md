@@ -1,6 +1,6 @@
 - [ ] cell phone
 - [ ] tablet
-- [ ] charger
+- [ ] battery
 - [ ] earphone
 - [ ] wallet
 - [ ] transportation IC card
