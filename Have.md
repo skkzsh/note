@@ -1,0 +1,2 @@
+- button battery: LR44
+- display: 23 inch
