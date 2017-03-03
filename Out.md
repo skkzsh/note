@@ -8,4 +8,3 @@
 - [ ] pouch
 - [ ] key
 - [ ] watch
-- [ ] wristband
