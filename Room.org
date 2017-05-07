@@ -8,8 +8,11 @@
 ** Width
    | desk      | 120 |
    | rack      |  90 |
-   | 収納case  |  40 |
    | bookshelf |  60 |
+
+** 収納case
+   - width :: 40
+   - height :: 11, 15, 25
 
 ** Bed
    - space: D36 * H36
