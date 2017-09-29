@@ -11,8 +11,8 @@
    | ロフト        | 梅田 あべの                    | 渋谷 池袋 有楽町 吉祥寺 |
    | [[http://www.muji.net/store/][無印良品]]      | 梅田 心斎橋 なんば 天王寺 千里 | 新宿                    |
    | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]    | 梅田                           | 渋谷 池袋 新宿          |
-   | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]    | 梅田 心斎橋 なんば 天王寺      |                         |
-   | [[http://www.nitori-net.jp][ニトリ]]        | 西成                           | 赤羽 成増               |
+   | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]    | 梅田 心斎橋 なんば 天王寺      | 渋谷                    |
+   | [[http://www.nitori-net.jp][ニトリ]]        | 西成                           | 渋谷 赤羽 成増          |
    | [[http://www.shimachu.co.jp][島忠ホームズ]]  |                                | 方南町 足立小台         |
    | IKEA          | 神戸 鶴浜                      | 新三郷 船橋             |
    | [[http://www.afternoon-tea.net/pc/index.html][Afternoon Tea]] |                                |                         |
