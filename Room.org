@@ -6,7 +6,6 @@
 
 * Furniture
 ** Width
-   | desk      | 120 |
    | rack      |  90 |
    | bookshelf |  60 |
 
@@ -20,3 +19,6 @@
      - 小: H14
      - 大: H30
    - H40
+
+** Others
+   - desk: W120 * D60
