@@ -3,7 +3,6 @@
 - [ ] battery
 - [ ] earphone
 - [ ] wallet
-- [ ] transportation IC card
 - [ ] card case
 - [ ] pouch
 - [ ] key
