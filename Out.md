@@ -10,4 +10,4 @@
 - [ ] watch
 
 ### work
-- [ ] Card
+- [ ] card
