@@ -2,7 +2,7 @@
 #+AUTHOR: skkzsh
 #+LANGUAGE: ja
 #+OPTIONS: \n:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.com/style_sheet/org/white-org.css" title="org">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://skkzsh.github.io/style_sheet/org/white-org.css" title="org">
 
 * Furniture
 ** Width
@@ -21,4 +21,7 @@
    - H40
 
 ** Others
-   - desk: W120 * D60
+   - desk: W160 * D80
+
+* Room
+- closet: H20-30
