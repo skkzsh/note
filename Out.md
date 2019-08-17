@@ -1,4 +1,5 @@
 ### common
+
 - [ ] cell phone
 - [ ] tablet
 - [ ] battery
@@ -10,9 +11,11 @@
 - [ ] watch
 
 ### work
+
 - [ ] card
 
 ### bike
+
 - [ ] light
 - [ ] lock
 - [ ] globe
