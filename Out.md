@@ -14,6 +14,7 @@
 
 ### bike
 - [ ] light
+- [ ] lock
 - [ ] globe
 - [ ] glass
 - [ ] head
