@@ -21,3 +21,4 @@
 - [ ] globe
 - [ ] glass
 - [ ] head
+- [ ] towel
