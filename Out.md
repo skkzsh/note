@@ -22,3 +22,10 @@
 - [ ] glass
 - [ ] head
 - [ ] towel
+
+### 輪行
+- [ ] 輪行袋
+- [ ] cover
+- [ ] dummy rotor
+- [ ] tool
+- [ ] globe (work)
