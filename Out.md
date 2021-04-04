@@ -21,3 +21,11 @@
 - [ ] globe
 - [ ] glass
 - [ ] head
+- [ ] towel
+- [ ] tool
+
+### 輪行
+- [ ] 輪行袋
+- [ ] cover
+- [ ] dummy rotor
+- [ ] globe (work)
