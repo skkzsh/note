@@ -1,31 +1,31 @@
 ### common
 
-- [ ] cell phone
-- [ ] tablet
-- [ ] battery
-- [ ] earphone
-- [ ] wallet
-- [ ] card case
-- [ ] pouch
-- [ ] key
-- [ ] watch
+- [ ] cell phone :iphone:
+- [ ] tablet :iphone:
+- [ ] battery :battery:
+- [ ] earphone :headphones:
+- [ ] wallet :moneybag:
+- [ ] card case :card_file_box:
+- [ ] pouch :briefcase:
+- [ ] key :key:
+- [ ] watch :watch:
 
 ### work
 
-- [ ] card
+- [ ] card :card_file_box:
 
 ### bike
 
-- [ ] light
-- [ ] lock
-- [ ] globe
-- [ ] glass
-- [ ] head
-- [ ] towel
-- [ ] tool
+- [ ] light :flashlight:
+- [ ] lock :lock:
+- [ ] globe :raised_hands:
+- [ ] glass :dark_sunglasses:
+- [ ] head :military_helmet:
+- [ ] towel :hand:
+- [ ] tool :toolbox:
 
 ### 輪行
-- [ ] 輪行袋
+- [ ] 輪行袋 :handbag:
 - [ ] cover
 - [ ] dummy rotor
-- [ ] globe (work)
+- [ ] globe (work) :raised_hands:
