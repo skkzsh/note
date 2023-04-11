@@ -13,6 +13,7 @@
 ### work
 
 - [ ] card :card_file_box:
+- [ ] connector
 
 ### bike
 
