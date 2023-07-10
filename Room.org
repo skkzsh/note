@@ -9,6 +9,11 @@
    | rack             |  90 |
    | bookshelf :book: |  60 |
 
+** TV rack
+   - width :: 120
+   - height :: 180
+   - depth :: 45
+
 ** 収納case
    - width :: 40
    - height :: 11, 15, 25
@@ -24,5 +29,6 @@
    - desk: W160 * D80
 
 * Room
+- width: 260
 - closet: H20-30
 - エアコン下: W100
