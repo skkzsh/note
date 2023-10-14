@@ -6,18 +6,22 @@
 
 * 雑貨 gadget 文房具 stationery 家具 interior ホームセンター
 ** List
-   |               | 関東 (東京)        | 関西 (大阪)                    |
-   |---------------+--------------------+--------------------------------|
-   | [[https://www.loft.co.jp/][ロフト]]        | 渋谷 有楽町 吉祥寺 | 梅田 あべの                    |
-   | [[http://www.muji.net/store/][無印良品]]      | 新宿               | 梅田 心斎橋 なんば 天王寺 千里 |
-   | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]    | 渋谷 新宿          | 梅田                           |
-   | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]    | 渋谷 新宿          | 梅田 心斎橋 なんば 天王寺      |
-   | [[http://www.nitori-net.jp][ニトリ]]        | 渋谷 赤羽 成増     | 西成                           |
-   | [[http://www.shimachu.co.jp][島忠ホームズ]]  | 方南町 足立小台    |                                |
-   | [[https://www.ikea.com/jp/ja][IKEA]]          | 立川 船橋          | 神戸 鶴浜                      |
-   | [[http://www.afternoon-tea.net/pc/index.html][Afternoon Tea]] |                    |                                |
-   | [[http://www.actus-interior.com][アクタス]]      | 新宿 青山          | 大阪空港 心斎橋                |
-   | [[http://www.idc-otsuka.jp/][IDC大塚家具]]   | 新宿               | 大阪港 神戸                    |
+   |                  | 関東 (東京)        | 関西 (大阪)                    |
+   |------------------+--------------------+--------------------------------|
+   | [[https://www.loft.co.jp/][ロフト]]           | 渋谷 有楽町 吉祥寺 | 梅田 あべの                    |
+   | [[http://www.muji.net/store/][無印良品]]         | 新宿 吉祥寺        | 梅田 心斎橋 なんば 天王寺 千里 |
+   | [[https://www.tokyu-hands.co.jp/][東急ハンズ]]       | 渋谷 新宿          | 梅田                           |
+   | [[http://www.francfranc.com/shop/default.aspx][Francfranc]]       | 渋谷 新宿          | 梅田 心斎橋 なんば 天王寺      |
+   | [[http://www.nitori-net.jp][ニトリ]]           | 渋谷 赤羽 成増     | 西成                           |
+   | [[http://www.shimachu.co.jp][島忠ホームズ]]     | 仙川 葛西          |                                |
+   | [[https://www.ikea.com/jp/ja][IKEA]]             | 立川 船橋          | 神戸 鶴浜                      |
+   | [[http://www.afternoon-tea.net/pc/index.html][Afternoon Tea]]    |                    |                                |
+   | [[http://www.actus-interior.com][アクタス]]         | 新宿 青山 吉祥寺   | 大阪空港 心斎橋                |
+   | [[http://www.idc-otsuka.jp/][IDC大塚家具]]      | 新宿               | 大阪港 神戸                    |
+   | [[https://www.keyuca.com][KEYUCA]]           | 豊洲 吉祥寺        |                                |
+   | [[https://www.unico-fan.co.jp/][unico]]            | 二子玉 吉祥寺      |                                |
+   | [[https://momo-natural.co.jp][MOMO natural]]     | 自由が丘 吉祥寺    |                                |
+   | Journal Standard | 渋谷 吉祥寺        |                                |
 
 ** Link
    - [[http://zakka.30min.jp/][みんなの雑貨屋めぐり by 30min.]]
