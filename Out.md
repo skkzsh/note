@@ -6,27 +6,30 @@
 - [ ] earphone :headphones:
 - [ ] wallet :moneybag:
 - [ ] card case :card_file_box:
-- [ ] pouch :briefcase:
+- [ ] pouch :pouch:
 - [ ] key :key:
 - [ ] watch :watch:
 
 ### work
 
 - [ ] card :card_file_box:
-- [ ] connector
+- [ ] connector :link:
+- [ ] adapter :electric_plug:
 
 ### bike
 
 - [ ] light :flashlight:
 - [ ] lock :lock:
-- [ ] globe :raised_hands:
+- [ ] globe :gloves:
 - [ ] glass :dark_sunglasses:
 - [ ] head :military_helmet:
-- [ ] towel :hand:
+- [ ] towel :sweat_drops:
 - [ ] tool :toolbox:
+- [ ] pump :dash:
+- [ ] tube :wheel:
 
 ### 輪行
 - [ ] 輪行袋 :handbag:
-- [ ] cover
-- [ ] dummy rotor
-- [ ] globe (work) :raised_hands:
+- [ ] cover :shield:
+- [ ] dummy rotor :gear:
+- [ ] globe (work) :gloves:
