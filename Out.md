@@ -22,11 +22,11 @@
 - [ ] lock :lock:
 - [ ] globe :gloves:
 - [ ] glass :dark_sunglasses:
-- [ ] head :military_helmet:
+- [ ] head :helmet_with_white_cross:
 - [ ] towel :sweat_drops:
-- [ ] tool :toolbox:
+- [ ] tool :fork_and_knife:
 - [ ] pump :dash:
-- [ ] tube :wheel:
+- [ ] tube :bicyclist:
 
 ### 輪行
 - [ ] 輪行袋 :handbag:
