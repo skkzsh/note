@@ -1,2 +1,1 @@
 - button battery: LR44 :battery:
-- display: 23 inch :tv:
