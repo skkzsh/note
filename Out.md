@@ -21,7 +21,7 @@
 
 - [ ] light :flashlight:
 - [ ] lock :lock:
-- [ ] globe :gloves:
+- [ ] glove :gloves:
 - [ ] glass :dark_sunglasses:
 - [ ] head :helmet_with_white_cross:
 - [ ] towel :sweat_drops:
@@ -33,4 +33,4 @@
 - [ ] 輪行袋 :handbag:
 - [ ] cover :shield:
 - [ ] dummy rotor :gear:
-- [ ] globe (work) :gloves:
+- [ ] glove (work) :gloves:
