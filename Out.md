@@ -9,6 +9,7 @@
 - [ ] pouch :pouch:
 - [ ] key :key:
 - [ ] watch :watch:
+- [ ] smart tracker :round_pushpin:
 
 ### work
 
