@@ -26,8 +26,10 @@
 - [ ] head :helmet_with_white_cross:
 - [ ] towel :sweat_drops:
 - [ ] tool :fork_and_knife:
+- [ ] quick shot :gun:
 - [ ] pump :dash:
 - [ ] patch :sewing_needle:
+- [ ] tube :bicyclist:
 
 ### 輪行
 - [ ] 輪行袋 :handbag:
