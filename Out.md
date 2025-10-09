@@ -27,7 +27,7 @@
 - [ ] towel :sweat_drops:
 - [ ] tool :fork_and_knife:
 - [ ] pump :dash:
-- [ ] tube :bicyclist:
+- [ ] patch :sewing_needle:
 
 ### 輪行
 - [ ] 輪行袋 :handbag:
