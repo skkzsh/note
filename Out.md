@@ -25,6 +25,7 @@
 - [ ] glass :dark_sunglasses:
 - [ ] head :helmet_with_white_cross:
 - [ ] towel :sweat_drops:
+- [ ] stand :leg:
 - [ ] tool :fork_and_knife:
 - [ ] quick shot :gun:
 - [ ] pump :dash:
