@@ -9,6 +9,7 @@
 - [ ] pouch :pouch:
 - [ ] key :key:
 - [ ] watch :watch:
+- [ ] bottle :droplet:
 - [ ] smart tracker :round_pushpin:
 
 ### work
@@ -31,6 +32,7 @@
 - [ ] pump :dash:
 - [ ] patch :sewing_needle:
 - [ ] tube :bicyclist:
+- [ ] neck warmer :scarf:
 
 ### 輪行
 - [ ] 輪行袋 :handbag:
