@@ -18,6 +18,9 @@
 - [ ] connector :link:
 - [ ] adapter :electric_plug:
 
+### cafe
+- [ ] timer :timer_clock:
+
 ### bike
 
 - [ ] light :flashlight:
