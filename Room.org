@@ -6,10 +6,10 @@
 
 * Furniture
 ** Width
-   | rack             | 90 |
-   | bookshelf :book: | 60 |
+   | rack         | 90 |
+   | bookshelf 📚 | 60 |
 
-** TV rack
+** TV rack 📺
    | width  | 120 |
    | height | 180 |
    | depth  |  45 |
