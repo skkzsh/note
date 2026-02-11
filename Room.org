@@ -6,29 +6,29 @@
 
 * Furniture
 ** Width
-   | rack         | 90 |
-   | bookshelf 📚 | 60 |
+| rack         | 90 |
+| bookshelf 📚 | 60 |
 
 ** TV rack 📺
-   | width  | 120 |
-   | height | 180 |
-   | depth  |  45 |
+| width  | 120 |
+| height | 180 |
+| depth  |  45 |
 
 ** 収納case
-   | width  |         40 |
-   | height | 11, 15, 25 |
+| width  |         40 |
+| height | 11, 15, 25 |
 
-** Bed :bed:
-   - D205 * W100 * H40
-   - space: D36 * H36
-   - drawer: W54 * D46
-     - 小: H14
-     - 大: H30
+** Bed 🛏
+- D205 * W100 * H40
+- space: D36 * H36
+- drawer: W54 * D46
+  - 小: H14
+  - 大: H30
 
 ** Others
-   - desk
-     - +W160 * D80+
-     - W140 * D70
+- desk
+  - +W160 * D80+
+  - W140 * D70
 
 * Room
 - +width: 260+
